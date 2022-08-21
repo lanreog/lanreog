@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lanreog
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning game development in Unity with C#
-- 💞️ I’m looking to collaborate on creating databases on information about Nigeria, game development with a strong bias for historical content.
-- 📫 How to reach me davidogor@gmail.com
+- 👀 I’m interested in learning new things intersecting with my interests.
+- 🌱 I’m currently learning game development in Unity.
+- 💞️ I’m looking to collaborate on creating databases, and games.
+- 📫 How to reach me davidogoru@gmail.com
 
 <!---
 lanreog/lanreog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
