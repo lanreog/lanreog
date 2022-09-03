@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lanreog
 - 👀 I’m interested in learning new things intersecting with my interests.
 - 🌱 I’m currently learning game development in Unity.
-- 💞️ I’m looking to collaborate on creating databases, games and all things digital humanities.
+- 💞️ I’m looking to collaborate on creating databases, games and digital humanities projects.
 - 📫 How to reach me davidogoru@gmail.com
 
 <!---
